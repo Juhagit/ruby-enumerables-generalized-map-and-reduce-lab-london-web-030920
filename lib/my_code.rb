@@ -3,5 +3,6 @@
 def map(array) 
   new = []
   i = 0 
-  while i < array.
+  while i < array.length 
+  i
 end 
