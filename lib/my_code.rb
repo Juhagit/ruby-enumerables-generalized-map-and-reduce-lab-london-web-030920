@@ -1,7 +1,7 @@
 # Your Code Here
 
-def my_own_map
-  my_own_map.map  |num|
-    num * -1
-  end 
+DEF MY_OWN_MAP
+  MY_OWN_MAP.MAP  |NUM|
+    NUM * -1
+  END 
   
